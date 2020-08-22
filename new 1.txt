@@ -1,4 +1,9 @@
 this
 is
-a
+insert
+
 file
+
+added 
+
+more lines
